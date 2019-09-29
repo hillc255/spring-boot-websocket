@@ -23,7 +23,7 @@ Sprring Boot websocket example - Udacity Java Nanodegree.
    
  ## Result 
  
-  Start each websocket in the 2 browsers
-  Scheduler will begin
-  Add a name and submit
-  Name will appear in each browser
+    Start each websocket in the 2 browsers
+    Scheduler will begin
+    Add a name and submit
+    Name will appear in each browser
